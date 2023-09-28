@@ -1,5 +1,5 @@
 # Health care Project
-This app gets along with [Health care management ](https://healthandbeyond.xyz/). It allows **`doctor`** and **`patient`** to easily access all features of [ Health care managemen ](https://healthcare project.xyz/) using this app.
+This app gets along with [Health care data management ] It allows **`doctor`** and **`patient`** to easily access all features of [ Health care data  management ](https://Health care data  management) using this app.
 
 ### Note
 - I made this **`Flutter`** app in short notice of a week. Had absoulutely no time to add **`comments`**.
@@ -9,8 +9,8 @@ This is all done in one go.
 - I might re-make the entire project and add **`state management`** with better **`code`**.
 - You may use my code but it must be **free**, **publicly available** and **open source**.
 
-### Check out the [video presentation](https://www.youtube.com/watch?v=tvBAQAZmhoM)
-#### Timestamps
+
+
 
 - Introduction to Mobile Application at **`15:27`**
     - Project Structure at **`15:55`**
