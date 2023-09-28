@@ -1,5 +1,5 @@
 # Health care Project
-This app gets along with [Health & Beyond](https://healthandbeyond.xyz/). It allows **`doctor`** and **`patient`** to easily access all features of [Health & Beyond](https://healthcare project.xyz/) using this app.
+This app gets along with [Health care management ](https://healthandbeyond.xyz/). It allows **`doctor`** and **`patient`** to easily access all features of [ Health care managemen ](https://healthcare project.xyz/) using this app.
 
 ### Note
 - I made this **`Flutter`** app in short notice of a week. Had absoulutely no time to add **`comments`**.
