@@ -1,4 +1,4 @@
-# Health care Project
+# HEALTH CARE DATA MANAGEMENT 
 This app gets along with [Health care data management ] It allows **`doctor`** and **`patient`** to easily access all features of [ Health care data  management ](https://Health care data  management) using this app.
 
 ### Note
